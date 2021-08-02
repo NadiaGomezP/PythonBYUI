@@ -1,4 +1,4 @@
-#SHOPPING CART
+#SHOPPING CART PYTHON
 
 names = []
 prices = []

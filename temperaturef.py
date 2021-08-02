@@ -1,3 +1,6 @@
+#FAHRENHEIT WINDCHILL
+
+
 # F = (ºC . 1,8) + 32
 # WIND CHILL = 35.74 + 0.6215 T - 35.75(V0.16) + 0.4275T(V0.16)
 # TEMPARATURE INPUT = What is the temperature? 

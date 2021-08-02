@@ -1,3 +1,5 @@
+#SHOPPING CART
+
 names = []
 prices = []
 
